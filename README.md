@@ -10,6 +10,6 @@ Preparação dos dados em data_prep/data_prep.ipynb. comentários no código. va
 
 ------------------------------------------------------------------------------------------------------------------
 
-A inferencia é rodada no pipeline.py, em loop sobre cada parametro e cada arquitetura pra testar. comentários no código. As funções estão nos arquivos em SBI4SL, que está estruturado (mt porcamente) como um pacote. o arquivo pipeline.py gera uma pasta de resultados e varias subpastas para parametros e arquiteturas.
+A inferencia é rodada no pipeline.py em loop sobre cada parametro e cada arquitetura pra testarusando os arquivos de data_prep/data. Comentários no código. As funções estão nos arquivos em SBI4SL, que está estruturado (mt porcamente) como um pacote. O arquivo pipeline.py gera uma pasta de resultados e varias subpastas para parametros e arquiteturas.
 
 ------------------------------------------------------------------------------------------------------------------
